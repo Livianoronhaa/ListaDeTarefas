@@ -1,5 +1,16 @@
-# ListaDeTarefas
+# projeto
 
-![image](https://github.com/user-attachments/assets/fca786c3-fa5c-417e-a886-30f8153f904f)
-![image](https://github.com/user-attachments/assets/08328a0f-2add-428a-abcf-ff5209b8bd05)
-![image](https://github.com/user-attachments/assets/51ac940b-a630-41de-8ed7-cde195e7333b)
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
